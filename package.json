@@ -1,1 +1,12 @@
-{\n  "name": "hello-world-app",\n  "version": "1.0.0",\n  "main": "app.js",\n  "scripts": {\n    "start": "node app.js"\n  },\n  "dependencies": {\n    "express": "^4.17.1"\n  }\n}
+{
+  "name": "hello-world-languages",
+  "version": "1.0.0",
+  "description": "A Node.js web app that prints Hello in all languages",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
